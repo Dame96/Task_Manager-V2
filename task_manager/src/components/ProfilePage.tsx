@@ -20,7 +20,7 @@ const ProfilePage: React.FC = () =>{
 
     return(
         <PageLayout>
-            <h3> Welcome! Manage your tasks here...</h3>
+            <h3> Welcome Back! Manage your tasks here...</h3>
             <Col>
                 {user?.picture && <img src={user.picture} alt={user.name} />}
                 <h3>{user.name}</h3>

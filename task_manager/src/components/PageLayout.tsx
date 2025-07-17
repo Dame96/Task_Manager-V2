@@ -13,7 +13,6 @@ const PageLayout: React.FC<PageLayoutProps> = ({ children }) => {
       <Col>
       <NavBar />
       </Col>
-      <h1>Task App v.6</h1>
       {children}
       <footer>
         <NavBarButtons />

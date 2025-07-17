@@ -28,7 +28,7 @@ Technlogies used to create this project:
 
 
 - Clone the Repository
-- "git clone" https://github.com/your-username/task-management-app.git
+- "git clone" 
 
 Navigate into project folder. 
 - "cd task-management-app"

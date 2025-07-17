@@ -10,8 +10,7 @@ const HomePage: React.FC = () => {
   return (
     <Container>
       <Col>
-        <h1>Hello World!</h1>
-        <h2> Welcome to Task Manager 6.0</h2>
+        <h2> Welcome to Task Manager 2.0</h2>
         <p>The Road To Productivity Starts Here...</p>
         <p>Please Log In:</p>
         <LoginButton />
